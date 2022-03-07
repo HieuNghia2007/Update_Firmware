@@ -1,0 +1,14 @@
+Mylib.c:191:44:FLASH_erase	32	static
+Mylib.c:224:44:FLASH_program	32	static
+Mylib.c:254:44:Update	32	static
+Mylib.c:16:6:DMA2_Stream2_Clear_InterruptFlag	16	static
+Mylib.c:23:6:DMA2_Init	48	static
+Mylib.c:54:6:DMA2_Init_IT	48	static
+Mylib.c:95:6:UART6_Init	32	static
+Mylib.c:128:6:UART6_Send	24	static
+Mylib.c:145:6:UART6_Transmit	24	static
+Mylib.c:156:6:UART6_DMA_Stop	16	static
+Mylib.c:162:6:UART6_DMA_Start	16	static
+Mylib.c:168:6:UART6_ClearOREFlag	24	static
+Mylib.c:177:6:UART6_Receive_DMA	32	static
+Mylib.c:184:6:UART6_Receive_DMA_IT	32	static
